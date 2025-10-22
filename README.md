@@ -17,7 +17,6 @@
         padding: 0;
         box-sizing: border-box;
     }
-	
 
     body {
         font-family: 'Roboto', sans-serif;
@@ -126,11 +125,11 @@
 <body>
 
 <div class="card">
+    <!-- Logo -->
+    <img src="https://via.placeholder.com/100.png?text=Logo" alt="Logo" class="logo">
 
-    <h1>Follow Us
-<br> Click Icons <color yellow
-	</h1>
-    <p>Stay connected with us on social media for Upcoming trainings, Job updates.</p>
+    <h1>Follow Us</h1>
+    <p>Stay connected with us on social media for updates and news.</p>
 
     <div class="social-links">
         <!-- Replace with your actual links -->
